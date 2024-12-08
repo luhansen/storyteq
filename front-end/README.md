@@ -34,8 +34,8 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd autocomplete-challenge
+   git clone https://github.com/luhansen/storyteq.git
+   cd storyteq/front-end
    ```
 2. Install dependencies:
    ```bash
